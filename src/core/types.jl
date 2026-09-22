@@ -15,3 +15,4 @@ struct MeasurementResult
     detected::Bool
     bit::Union{BitValue, Nothing}
 end
+
