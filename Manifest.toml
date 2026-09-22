@@ -2,9 +2,10 @@
 
 julia_version = "1.12.6"
 manifest_format = "2.0"
-project_hash = "1284069305943dcd29582886ebdab8837a465688"
+project_hash = "1a4acf697be7b5a06e10334597fbb6506f17b2aa"
 
 [[deps.BB84ChannelSim]]
+deps = ["Test"]
 path = "."
 uuid = "faaf9e13-ab8a-43f9-8f53-4b44a0c0e0e6"
 version = "0.1.0"

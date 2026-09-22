@@ -1,5 +1,9 @@
 using Test
 using BB84ChannelSim
+using Random
+
+include("bb84_sanity.jl")
+
 
 @testset "BB84ChannelSim" begin
 
